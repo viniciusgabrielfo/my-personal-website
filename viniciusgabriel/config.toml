@@ -1,4 +1,4 @@
-baseURL = "https://fervent-bhabha-5a7d7a.netlify.app/"
+baseURL = "localhost"
 title   = "Vinicius Gabriel"
 defaultContentLanguage = "pt-br"
 languageCode = "pt-br"
