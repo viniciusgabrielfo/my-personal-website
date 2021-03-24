@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify serve -b https://fervent-bhabha-5a7d7a.netlify.app/"
+command = "hugo --gc --minify serve"
 
 [context.production.environment]
 HUGO_VERSION = "0.82.0"
